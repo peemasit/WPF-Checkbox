@@ -1,0 +1,15 @@
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\bin\Debug\WPF-Checkbox.exe.config
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\bin\Debug\WPF-Checkbox.exe
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\bin\Debug\WPF-Checkbox.pdb
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\MainWindow.g.cs
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\App.g.cs
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox_MarkupCompile.cache
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox_MarkupCompile.lref
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\MainWindow.baml
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox.g.resources
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF_Checkbox.Properties.Resources.resources
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox.csproj.GenerateResource.cache
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox.exe
+C:\Users\peema\source\repos\WPF-Checkbox\WPF-Checkbox\obj\Debug\WPF-Checkbox.pdb
